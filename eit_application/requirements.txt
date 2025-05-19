@@ -1,0 +1,5 @@
+matplotlib==3.4.3
+numpy==1.21.2
+dataclasses==0.8
+PyQt5==5.15.6
+pyserial==3.5

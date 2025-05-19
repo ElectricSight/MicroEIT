@@ -1,0 +1,10 @@
+.vscode
+venv
+__pycache__
+measurements
+build
+dist
+exe
+_test_scripts
+
+*.log

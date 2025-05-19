@@ -1,0 +1,15 @@
+.vscode
+venv
+__pycache__
+measurements
+build
+dist
+exe
+_test_scripts
+outputs
+datasets
+snapshots
+*.svg
+*.log
+/runs
+/temp

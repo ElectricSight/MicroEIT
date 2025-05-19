@@ -1,0 +1,15 @@
+//JSON data:
+{"device_infos": {"channel": 32, "sn_formated": "01-0019-0132-0A0C", "sn": [1, 0, 25, 1, 50, 10, 12]}, "output_config": {"exc_stamp": true, "current_stamp": true, "time_stamp": true}, "ethernet_config": {"ip": [0, 0, 0, 0], "mac": [0, 80, 194, 156, 97, 152], "ip_formated": "0.0.0.0", "mac_formated": "00:50:C2:9c:61:98", "dhcp": true}, "freq_config": {"freq_min": 10000.0, "freq_max": 10000.0, "freq_steps": 1, "freq_scale": "LINEAR"}, "exc_amp": 9.999999974752427e-07, "exc_pattern": [[9, 10], [10, 11], [11, 12], [12, 13], [13, 14], [14, 15], [15, 16], [16, 1], [1, 2], [2, 3], [3, 4], [4, 5], [5, 6], [6, 7], [7, 8], [8, 9]], "exc_pattern_mdl": [[1, 2], [2, 3], [3, 4], [4, 5], [5, 6], [6, 7], [7, 8], [8, 9], [9, 10], [10, 11], [11, 12], [12, 13], [13, 14], [14, 15], [15, 16], [16, 1]], "exc_pattern_idx": 15, "frame_rate": 1.0, "burst": 0}
+
+
+//Single attributes:
+//device_infos = {'channel': 32, 'sn_formated': '01-0019-0132-0A0C', 'sn': [1, 0, 25, 1, 50, 10, 12]},
+//output_config = {'exc_stamp': True, 'current_stamp': True, 'time_stamp': True},
+//ethernet_config = {'ip': [0, 0, 0, 0], 'mac': [0, 80, 194, 156, 97, 152], 'ip_formated': '0.0.0.0', 'mac_formated': '00:50:C2:9c:61:98', 'dhcp': True},
+//freq_config = {'freq_min': 10000.0, 'freq_max': 10000.0, 'freq_steps': 1, 'freq_scale': 'LINEAR'},
+//exc_amp = 9.999999974752427e-07,
+//exc_pattern = [[9, 10], [10, 11], [11, 12], [12, 13], [13, 14], [14, 15], [15, 16], [16, 1], [1, 2], [2, 3], [3, 4], [4, 5], [5, 6], [6, 7], [7, 8], [8, 9]],
+//exc_pattern_mdl = [[1, 2], [2, 3], [3, 4], [4, 5], [5, 6], [6, 7], [7, 8], [8, 9], [9, 10], [10, 11], [11, 12], [12, 13], [13, 14], [14, 15], [15, 16], [16, 1]],
+//exc_pattern_idx = 15,
+//frame_rate = 1.0,
+//burst = 0,
